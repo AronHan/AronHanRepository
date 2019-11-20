@@ -1,0 +1,14 @@
+{
+  "pages": [
+    "pages/index/index"
+  ],
+  "subPackages": [],
+  "networkTimeout": {
+    "request": 1200000,
+    "connectSocket": 1200000,
+    "uploadFile": 1200000,
+    "downloadFile": 1200000
+  },
+  "usingComponents": {},
+  "sitemapLocation": "sitemap83.json"
+}
